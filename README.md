@@ -7,6 +7,8 @@
 <img src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" align="center" alt="自然与人文协会logo">
   
   <center><p>![](https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png)</p></center>
+  
+  ![](https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png)
 
 2020年9月初，尧都区自然与人文协会获得北京市企业家环保基金会对协会蔚蓝临汾开放实验室项目为期一年的资助，资助期间根据项目计划以及我们的兴趣和机会，开展了多种形式不同的活动，这些活动可以粗略的分为三方面：技术实验、环保行动 与 社会活动。
 
