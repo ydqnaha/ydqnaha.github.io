@@ -11,11 +11,6 @@
 来源：[http://zjj.linfen.gov.cn/contents/2842/490134.html](http://zjj.linfen.gov.cn/contents/2842/490134.html)
 
 
-
-
-
-（2019年10月25日临汾市第四届人民代表大会常务委员会第三十三次会议通过）
-
 # <center>目录
 
 ## [第一章 总则](#第一章_总则)
