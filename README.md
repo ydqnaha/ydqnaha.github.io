@@ -3,7 +3,7 @@
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
 <meta content='自然与人文协会，临汾市尧都区自然与人文协会，关注临汾尧都区自然、生态、环境、社会、人类、历史、科技与文明的状态，记录、分享我们所知所感，希望与更广泛的世界建立连接，期待临汾更加生机盎然、丰富多彩、绿色而美丽。'>
   
-  <div align=center><img width="250" height="250" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png"/></div>
+  <div align=center><img width="350" height="350" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></div>
 
 2020年9月初，尧都区自然与人文协会获得北京市企业家环保基金会对协会蔚蓝临汾开放实验室项目为期一年的资助，资助期间根据项目计划以及我们的兴趣和机会，开展了多种形式不同的活动，这些活动可以粗略的分为三方面：技术实验、环保行动 与 社会活动。
 
