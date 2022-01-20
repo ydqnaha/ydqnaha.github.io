@@ -823,4 +823,4 @@
  ***
  来源：[http://www.gov.cn/zhengce/2015-08/30/content_2922326.htm](http://www.gov.cn/zhengce/2015-08/30/content_2922326.htm)
  
-   <div align=center><img width="150" height="150" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></div>
+   <div align=center><img width="100" height="100" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></div>
