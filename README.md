@@ -21,5 +21,5 @@
 - [临汾局：尧都区自然与人文协会到气象科普基地参观学习](http://sx.cma.gov.cn/gzdt/sjdt/202109/t20210926_3843190.html)
 - [解锁宇宙“奥秘”感知科学世界](http://paper.lfxww.com/resfile/2021-01-30/08/lfrb-20210130-008.pdf)
 - [中华人民共和国大气污染防治法](/daqifa.md)
-  [临汾大气污染防治条例](/lfdqwftl.md)
+- [临汾大气污染防治条例](/lfdqwftl.md)
 - [邮件联系我们](mailto:digitip@gmail.com)
