@@ -1,8 +1,10 @@
 ---
 layout: default
 title: 临汾市大气污染防治条例
-description: 本条例自2020年2月1日起施行
+description: 2019年10月25日临汾市第四届人民代表大会常务委员会第三十三次会议通过
 ---
+
+<div align=center><a href="https://ydqnaha.github.io/"><img width="100" height="100" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></a></div>
 
 > 临汾市人民代表大会常务委员会（第8号）公告
 >
@@ -10,11 +12,8 @@ description: 本条例自2020年2月1日起施行
 > 
 > 临汾市人民代表大会常务委员会 2020年1月17日
 
- 
 来源：[http://zjj.linfen.gov.cn/contents/2842/490134.html](http://zjj.linfen.gov.cn/contents/2842/490134.html)
- 
 
-<div align=center><a href="https://ydqnaha.github.io/"><img width="100" height="100" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></a></div>
  
 # <center>目录
 
