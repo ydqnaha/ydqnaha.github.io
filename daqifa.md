@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 中华人民共和国大气污染防治法
-description: This is just another page
+description: Law of the People's Republic of China on the Prevention and Control of Air Pollution 
 ---
 <div align=center><a href="https://ydqnaha.github.io/"><img width="100" height="100" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></a></div>
 
@@ -11,7 +11,9 @@ description: This is just another page
 > 
 > 中华人民共和国主席 习近平 2015年8月29日
 
+
 ***
+
 
 **中华人民共和国大气污染防治法修订历史**
 > - 1987年9月5日第六届全国人民代表大会常务委员会第二十二次会议通过
