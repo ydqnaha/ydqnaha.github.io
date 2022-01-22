@@ -4,6 +4,3 @@
 
 zxcvzcv
 
-<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-
-<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
