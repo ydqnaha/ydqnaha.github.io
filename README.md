@@ -6,8 +6,7 @@
 
 欢迎任何有相同理念的人士[与我们一起迎接新的未来]( https://docs.qq.com/form/fill/DVXhVZXpRVXlLT3ZW)。  
 
-<br><br>
-
+<br>
 
 **关于我们的报道**
 > - [尧都区自然与人文协会2020年度总结暨创绿家合作伙伴年度报告](https://mp.weixin.qq.com/s/zIre-iUpcI-_PA9UCQ-yXA)
