@@ -1,16 +1,19 @@
-## <center>中华人民共和国大气污染防治法</center>
+---
+layout: default
+title: 中华人民共和国大气污染防治法
+description: This is just another page
+---
+<div align=center><a href="https://ydqnaha.github.io/"><img width="100" height="100" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></a></div>
 
-> 中华人民共和国主席第三十一号令
-> 
+中华人民共和国主席第三十一号令
+>
 > 《中华人民共和国大气污染防治法》已由中华人民共和国第十二届全国人民代表大会常务委员会第十六次会议于2015年8月29日修订通过，现将修订后的《中华人民共和国大气污染防治法》公布，自2016年1月1日起施行。
 > 
-> 中华人民共和国主席 习近平 2015年8月29日
+中华人民共和国主席 习近平 2015年8月29日
 
+来源：[http://www.gov.cn/zhengce/2015-08/30/content_2922326.htm](http://www.gov.cn/zhengce/2015-08/30/content_2922326.htm)
  
- <div align=center><a href="https://ydqnaha.github.io/"><img width="100" height="100" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></a></div>
-
-
-## <center>目录</center>
+# <center>目录</center>
 
 ## [第一章 总则](#第一章_总则)
 
@@ -815,11 +818,11 @@
  
  ***
 
-> 中华人民共和国大气污染防治法修订历史
+PS：中华人民共和国大气污染防治法修订历史
 > - 1987年9月5日第六届全国人民代表大会常务委员会第二十二次会议通过
 > - 根据1995年8月29日第八届全国人民代表大会常务委员会第十五次会议《关于修改〈中华人民共和国大气污染防治法〉的决定》修正
 > - 2000年4月29日第九届全国人民代表大会常务委员会第十五次会议第一次修订
 > - 2015年8月29日第十二届全国人民代表大会常务委员会第十六次会议第二次修订
  
  ***
- 来源：[http://www.gov.cn/zhengce/2015-08/30/content_2922326.htm](http://www.gov.cn/zhengce/2015-08/30/content_2922326.htm)
+
