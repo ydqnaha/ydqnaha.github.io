@@ -4,7 +4,9 @@
 
 我们关注自然、社会、人类文明的状态，我们记录与分享我们所知所感，我们希望与世界建立更广泛的联系，我们也希望临汾更丰富多彩、生机盎然、绿色而美丽。
 
-欢迎任何有相同理念的人士[与我们一起迎接新的未来]( https://docs.qq.com/form/fill/DVXhVZXpRVXlLT3ZW)。
+欢迎任何有相同理念的人士[与我们一起迎接新的未来]( https://docs.qq.com/form/fill/DVXhVZXpRVXlLT3ZW)。  
+
+<br><br>
 
 
 **关于我们的报道**
