@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [The title of your site]
+description: [A short description of your site's purpose]
