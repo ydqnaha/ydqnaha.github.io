@@ -1,6 +1,6 @@
-  <head>
-<title>我的第一个 HTML 页面</title>
-    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<head>
+<title>ooof</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
 <meta content='自然与人文协会，临汾市尧都区自然与人文协会，关注临汾尧都区自然、生态、环境、社会、人类、历史、科技与文明的状态，记录、分享我们所知所感，希望与更广泛的世界建立连接，期待临汾更加生机盎然、丰富多彩、绿色而美丽。'>
 </head>
 
