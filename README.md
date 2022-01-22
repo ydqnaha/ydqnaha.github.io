@@ -1,3 +1,9 @@
+---
+layout: default
+title: 临汾市大气污染防治条例
+---
+
+
 <div align=center><img width="350" height="350" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></div>
 
 临汾市尧都区自然与人文协会于2020年9月23日在临汾市尧都区行政审批服务管理局注册成立，主管单位是临汾市尧都区科学技术协会，前身为 [蔚蓝临汾网络项目](https://github.com/ooof/2017-BlueLinfen/blob/master/README.md)。
