@@ -1,5 +1,4 @@
-title: 是地方是的
-## 中华人民共和国大气污染防治法
+## <center>中华人民共和国大气污染防治法</center>
 
 > 中华人民共和国主席第三十一号令
 > 
@@ -11,7 +10,7 @@ title: 是地方是的
  <div align=center><a href="https://ydqnaha.github.io/"><img width="100" height="100" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></a></div>
 
 
-# <center>目录</center>
+## <center>目录</center>
 
 ## [第一章 总则](#第一章_总则)
 
