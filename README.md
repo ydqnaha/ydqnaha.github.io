@@ -10,9 +10,9 @@
 **关于我们的报道**
 > - [尧都区自然与人文协会2020年度总结暨创绿家合作伙伴年度报告](https://mp.weixin.qq.com/s/zIre-iUpcI-_PA9UCQ-yXA)
 > - [临汾局：尧都区自然与人文协会到气象科普基地参观学习](http://sx.cma.gov.cn/gzdt/sjdt/202109/t20210926_3843190.html)
+> - [临汾壶口瀑布取水记录：黄河水42天漂流记，让世界听到黄河的声音！](https://naha.mysxl.cn/blog/42)
+> - [尧都区图书馆与自然与人文协会「 更看见 」数字体验活动](https://naha.mysxl.cn/blog/39420a6821c)
 > - [解锁宇宙“奥秘”感知科学世界](http://paper.lfxww.com/resfile/2021-01-30/08/lfrb-20210130-008.pdf)
->  - [临汾壶口瀑布取水记录：黄河水42天漂流记，让世界听到黄河的声音！](https://naha.mysxl.cn/blog/42)
->  - [尧都区图书馆与自然与人文协会「 更看见 」数字体验活动](https://naha.mysxl.cn/blog/39420a6821c)
 
 **环境法规**
 > - [中华人民共和国大气污染防治法](/daqifa.md)
