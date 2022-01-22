@@ -1,6 +1,6 @@
 <div align=center><img width="350" height="350" src="https://user-assets.sxlcdn.com/images/799936/Fnf6y2UYxMNDiN6z5Iew79XHMJKZ.png" alt="自然与人文协会Logo"></div>
 
-临汾市尧都区自然与人文协会于2020年9月23日在临汾市尧都区行政审批服务管理局注册成立，主管单位是临汾市尧都区科学技术协会，前身为 [蔚蓝临汾网络项目](https://github.com/ooof/2017-BlueLinfen/blob/master/README.md)。
+临汾市尧都区自然与人文协会于2020年9月23日在临汾市尧都区行政审批服务管理局注册成立，主管单位是临汾市尧都区科学技术协会，前身为[蔚蓝临汾网络项目](https://github.com/ooof/2017-BlueLinfen/blob/master/README.md)。
 
 我们关注自然、社会、人类文明的状态，我们记录与分享我们所知所感，我们希望与世界建立更广泛的联系，我们也希望临汾更丰富多彩、生机盎然、绿色而美丽。
 
