@@ -17,7 +17,7 @@
 
 **项目**
 > - [政府信息公开指导手册](https://github.com/ydqnaha/ydqnaha.github.io/wiki)
->  - 通识项目
+>  - [古贤水库简史](https://github.com/ydqnaha/ydqnaha.github.io/wiki/%E5%8F%A4%E8%B4%A4%E6%B0%B4%E5%BA%93%E7%AE%80%E5%8F%B2)
 
 **环境法规**
 > - [中华人民共和国大气污染防治法](/daqifa.md)
