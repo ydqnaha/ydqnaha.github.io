@@ -17,7 +17,8 @@
 
 **项目**
 > - [政府信息公开指导手册](https://github.com/ydqnaha/ydqnaha.github.io/wiki)
->  - [古贤水库简史 2024-07-08](/guxianshuiku.md)
+> - [AME 影像行动周家庄首映「 新 · 新人类的生活 」后记 2024-06-08](/20240620-ame-zjz.md)
+> - [古贤水库简史 2024-07-08](/guxianshuiku.md)
 
 **环境法规**
 > - [中华人民共和国大气污染防治法](/daqifa.md)
