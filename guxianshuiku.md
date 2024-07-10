@@ -1,4 +1,4 @@
-# 古贤水库简史
+# 古贤
 <div align=center><img width="480"  src="/img/P30903-123905.jpg" alt="山西省临汾市古贤水库坝址"></div>
 <br>
 2006-11-07，[人水和谐 造福中华——写在人民治黄60年之际](https://www.gov.cn/jrzg/2006-11/07/content_435416.htm)
