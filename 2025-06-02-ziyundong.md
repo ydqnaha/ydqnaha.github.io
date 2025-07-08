@@ -1,6 +1,9 @@
 ---
+theme: jekyll-theme-cayman
 layout: page
 title: "PAGE-TITLE"
+permalink: /URL-PATH
+description: Nature and Humanities Association of Yaodu District, Linfen City, Shanxi Province
 ---
 
 2025-04-01 在自然与人文协会微信群成功举行晋三吉有奖竞猜活动后，发起人 @清流 表示会邀请参与猜出晋三吉吉祥符号的参与者一块吃顿饭。两个月后，在 @清流 与 @ooof 聊天中，谈起这事，约定两天后去 @海蓝 之前在微信群内推荐的紫云洞爬山，顺便请参与者一块吃饭。
