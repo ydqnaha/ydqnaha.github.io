@@ -1,4 +1,15 @@
-## 古贤水库简史
+---
+theme: jekyll-theme-cayman
+title: 古贤水库简史
+permalink: /guxianshuiku.html
+description: Nature and Humanities Association of Yaodu District, Linfen City, Shanxi Province
+---
+
+首发：[临汾市尧都区自然与人文协会微信公众号](https://mp.weixin.qq.com/s/Qn6IL35caQHF47kdan1nOg) <br>
+时间：2024年07月09日 
+
+
+
 <div align=center><img width="480"  src="/img/P30903-123905.jpg" alt="山西省临汾市古贤水库坝址"></div>
 <br>
 2006-11-07，[人水和谐 造福中华——写在人民治黄60年之际](https://www.gov.cn/jrzg/2006-11/07/content_435416.htm)
