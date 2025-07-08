@@ -2,7 +2,7 @@
 theme: jekyll-theme-cayman
 title: 古贤水库简史
 permalink: /guxianshuiku.html
-description: Nature and Humanities Association of Yaodu District, Linfen City, Shanxi Province
+description: A Brief History of the Guxian Reservoir
 ---
 
 首发：[临汾市尧都区自然与人文协会微信公众号](https://mp.weixin.qq.com/s/Qn6IL35caQHF47kdan1nOg) <br>
