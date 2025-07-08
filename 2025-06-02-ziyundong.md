@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-cayman
-title: 紫云洞
+title: 游山西临汾乡宁紫云洞记
 permalink: /2025-06-02-ziyundong.html
 description: Nature and Humanities Association of Yaodu District, Linfen City, Shanxi Province
 ---
