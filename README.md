@@ -15,7 +15,7 @@
 > - [尧都区图书馆与自然与人文协会「 更看见 」数字体验活动](https://naha.mysxl.cn/blog/39420a6821c)
 > - [解锁宇宙“奥秘”感知科学世界](http://paper.lfxww.com/resfile/2021-01-30/08/lfrb-20210130-008.pdf)
 > - [金星弯弯照临汾｜记自然与人文协会在临汾市博物馆举办七星连珠观星活动](/2025-04-01-7Xing.md)
-> - [自然与人文协会｜游山西临汾乡宁紫云洞记](/2025-06-02-ziyundong.md)
+> - [游山西临汾乡宁紫云洞记](/2025-06-02-ziyundong.md)
 
 **项目**
 > - [政府信息公开指导手册](https://github.com/ydqnaha/ydqnaha.github.io/wiki)
