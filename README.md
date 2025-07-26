@@ -17,7 +17,7 @@
 > - [“晋三吉” 商标的缘起、完善与竞猜活动](/2025-06-30-jsj.md)
 > - [金星弯弯照临汾｜记自然与人文协会在临汾市博物馆举办七星连珠观星活动](/2025-04-01-7Xing.md)
 > - [游山西临汾乡宁紫云洞记](/2025-06-02-ziyundong.md)
-> - [࿊ 太极图（Yin-Yang Diagram）：文明交汇中的符号之旅]/(https://ydqnaha.github.io/2025-07-13-YinYangtu.md)
+> - [࿊ 太极图（Yin-Yang Diagram）：文明交汇中的符号之旅](/2025-07-13-YinYangtu.md)
 
 **项目**
 > - [政府信息公开指导手册](https://github.com/ydqnaha/ydqnaha.github.io/wiki)
