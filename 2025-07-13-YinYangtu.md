@@ -20,7 +20,7 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 
 
-太极图案（Yin-Yang Diagram）渊源
+<h2>太极图案（Yin-Yang Diagram）溯源</h2>
 
 <div align=center><img width="200"  src="/img/qinglongshan/1.webp" alt="1"></div>
 
@@ -111,7 +111,7 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 
 
-太极符号（Yin-Yang Symbol ）的自然属性与未来
+<h2>太极符号（Yin-Yang Symbol ）的自然属性与未来</h2>
 
 <div align=center><img width="200"  src="/img/qinglongshan/1.webp" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Natürlich_gewachsenes_yin-yang-.jpg" alt="1"></div>
@@ -167,7 +167,7 @@ Unicode 联盟已经把两个阴阳图符号纳入[全球通用字符标准](htt
 
 
 
-小结：
+<h2>小结</h2>
 
 <ol>
 <li>无论 “阴阳太极图” 还是“来氏太极图”，英文世界普遍认定其源自中国，称为 Yin-Yang diagram/symbol、Taiji diagram/symbol 或 Taijitu，并且 Unicode 联盟已将两个阴阳符号纳入全球通用字符标准，使阴阳符号能够在数字世界里平等呈现和交流。</li>
