@@ -29,21 +29,21 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 <div align=center><img width="640"  src="/img/qinglongshan/乌克兰-Volodymyrivka.png" alt="1"></div>
 
-卫星地图上的 Volodymyrivka 村，面积不是很大，现在也不像是有人居住
+<center>卫星地图上的 Volodymyrivka 村，面积不是很大，现在也不像是有人居住</center>
 
 
 
 <div align=center><img width="200"  src="/img/qinglongshan/2.webp" alt="1"></div>
 
-<div align=center><img width="640"  src="/img/qinglongshan/屈家岭文化-彩陶纺轮1.png" alt="1"></div>
-<div align=center><img width="640"  src="/img/qinglongshan/屈家岭文化-彩陶纺轮2.png" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/屈家岭文化-彩陶纺轮1.png" alt="屈家岭文化-彩陶纺轮"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/屈家岭文化-彩陶纺轮2.jpeg" alt="屈家岭文化-彩陶纺轮"></div>
 在中国湖北京山市屈家岭村，发现公元前3300–前2600年的彩陶纺轮，常见图案为漩涡、直线、麻点、同心弧线、双鱼等，其中的“漩涡”与“双鱼”图案在视觉上与太极图案相似。
 
 
 
 <div align=center><img width="200"  src="/img/qinglongshan/3.webp" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/I_Ching_Song_Dynasty_print.jpg" alt="1"></div>
-宋朝《易经》首页
+<center>宋朝《易经》首页</center>
 
 《周易》的成书时间约在公元前1046年到前200年之间。《周易》中有阴阳这个词汇，且明确记载：“一阴一阳之谓道”，这是对阴阳哲学的经典表述，但书中没有 “太极” 这个词汇；有卦爻符号，但没有太极或阴阳图图案。
 
@@ -51,11 +51,11 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 <div align=center><img width="200"  src="/img/qinglongshan/4.png" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Celtic_Gold-plated_Disc,_Auvers-sur-Oise,_Val-d'Oise.jpg" alt="1"></div>
-法国发现公元前400年的圆盘胸针
+<center>法国发现公元前400年的圆盘胸针</center>
 <div align=center><img width="640"  src="/img/qinglongshan/Celtic_Bronze_Plaque,_Mairy,_Marne.jpg" alt="1"></div>
-法国发现公元前400年的青铜牌
+<center>法国发现公元前400年的青铜牌</center>
 <div align=center><img width="640"  src="/img/qinglongshan/Ornamental_Bronze_Plaque,_Celtic_Horse-gear,_Santon,_Norfolk.jpg" alt="1"></div>
-装饰性铜牌，公元前1世纪中叶
+<center>装饰性铜牌，公元前1世纪中叶</center>
 
 [凯尔特艺术](https://commons.wikimedia.org/wiki/Category:Yin_yang_in_Celtic_art) 起源于公元前约1000年，凯尔特艺术起源于古代凯尔特民族，最早活跃于西欧和中欧地区。以螺旋、编织、动物等抽象图案为主，常见于金属器、石雕和手稿，强调装饰性和几何美感。这些物品上包含阴阳图案的花纹。
 
@@ -63,9 +63,9 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 <div align=center><img width="200"  src="/img/qinglongshan/5.png" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Notitia_Dignitatum_-_Magister_Peditum.jpg" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Notitia_Dignitatum_-_Magister_Peditum.gif" alt="1"></div>
-公元 395 - 476 年之间西罗马帝国的步兵盾徽包含太极图案式样
+<center>公元 395 - 476 年之间西罗马帝国的步兵盾徽包含太极图案式样</center>
 <div align=center><img width="640"  src="/img/qinglongshan/Sousse_mosaic.jpeg" alt="1"></div>
-公元3世纪，突尼斯苏塞古城地面镶嵌的阴阳图图案
+<center>公元3世纪，突尼斯苏塞古城地面镶嵌的阴阳图图案</center>
 
 
 
@@ -132,7 +132,7 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 1. 太极图的本质是绘制“历法”（即二十四节气）的“图像”显化表达，且立杆测影得到的“太极图”，并且是“来氏太极图”。且最上面的三图顺序应该如下：
 
 <div align=center><img width="640"  src="/img/qinglongshan/双鱼图-2.png" alt="1"></div>
-無極 > 来氏太极图 > 阴阳太极图
+<center>無極 > 来氏太极图 > 阴阳太极图</center>
 
 2. 此后，才有 “太极文化”。
 
@@ -144,10 +144,10 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 <div align=center><img width="200"  src="/img/qinglongshan/4.png" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Unicode标准第11.0版.png" alt="1"></div>
-杂项符号 Unicode 标准第 11.0 版
+<center>杂项符号 Unicode 标准第 11.0 版</center>
 
 <div align=center><img width="640"  src="/img/qinglongshan/Unicode标准-60.png" alt="1"></div>
-《Unicode 标准》第 6.0 版新增字符
+<center>《Unicode 标准》第 6.0 版新增字符</center>
 
 Unicode 联盟（Unicode Consortium）是全球软件国际化标准的制定者，自1988年成立以来，制定并维护了Unicode标准，使全球各种语言的文字、符号和表情符号能在电脑和手机等设备上无障碍显示和交流。
 
@@ -157,7 +157,7 @@ Unicode 联盟已经把两个阴阳图符号纳入[全球通用字符标准](htt
 
 <div align=center><img width="200"  src="/img/qinglongshan/5.png" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/量子“阴阳”现象_科学家实时捕捉光子纠缠.png" alt="1"></div>
-量子“阴阳”现象：科学家实时捕捉光子纠缠
+<center>量子“阴阳”现象：科学家实时捕捉光子纠缠</center>
 
 主要刊载光子学领域最新研究成果的顶级学术刊物《自然光子学》2023年8月14日公布了一项突破性的实验：研究人员首次利用双光子数字全息技术，实时可视化两个纠缠光子的状态，观察到它们呈现出如同 “阴阳” 符号的图像。
 
@@ -169,22 +169,25 @@ Unicode 联盟已经把两个阴阳图符号纳入[全球通用字符标准](htt
 
 小结：
 
-无论 “阴阳太极图” 还是“来氏太极图”，英文世界普遍认定其源自中国，称为 Yin-Yang diagram/symbol、Taiji diagram/symbol 或 Taijitu，并且 Unicode 联盟已将两个阴阳符号纳入全球通用字符标准，使阴阳符号能够在数字世界里平等呈现和交流。
+<ol>
+<li>无论 “阴阳太极图” 还是“来氏太极图”，英文世界普遍认定其源自中国，称为 Yin-Yang diagram/symbol、Taiji diagram/symbol 或 Taijitu，并且 Unicode 联盟已将两个阴阳符号纳入全球通用字符标准，使阴阳符号能够在数字世界里平等呈现和交流。</li>
 
-阴阳太极图早在《周易》成书前，已在中国及其他国家出现，但难以确认其与后世太极图有无直接传承。
+<li>阴阳太极图早在《周易》成书前，已在中国及其他国家出现，但难以确认其与后世太极图有无直接传承。</li>
 
-《周易》成书时，似乎没有同时设计太极图案。如果设计过，这一重要符号应该不会在流传过程中丢失。
+<li>《周易》成书时，似乎没有同时设计太极图案。如果设计过，这一重要符号应该不会在流传过程中丢失。</li>
 
-太极图案的产生，可能源于以下一种或多种因素的结合：
+<li>太极图案的产生，可能源于以下一种或多种因素的结合：
 
 观察模仿：对自然物象的抽象化表达。
 
 思想构造：道家哲学的视觉化呈现。
 
-科学试验：对北方太阳光影变化的数据可视化。
+科学试验：对北方太阳光影变化的数据可视化。</li>
 
-太极图可能表征了自然界物质运动或人类社会中人群关系演变的一些特征，值得人们去关注。
+<li>太极图可能表征了自然界物质运动或人类社会中人群关系演变的一些特征，值得人们去关注。</li>
 
+</ol>
 
 <div align=center><img width="640"  src="/img/qinglongshan/太极图-彩色深色.png" alt="1"></div>
-Inkscape 绘制的矢量来知德太极图
+<center>Inkscape 绘制的矢量来知德太极图</center>
+
