@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: ࿊ 太极图（Yin-Yang Diagram）：文明交汇中的符号之旅
-permalink: /2025-07-13-YinYangtu.md
+permalink: /2025-07-13-YinYangtu.html
 description: Yin-Yang Diagram: A Journey of Symbols in the Confluence of Civilizations
 ---
 
