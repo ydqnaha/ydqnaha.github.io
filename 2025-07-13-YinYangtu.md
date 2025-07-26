@@ -188,6 +188,6 @@ Unicode 联盟已经把两个阴阳图符号纳入[全球通用字符标准](htt
 
 </ol>
 
-<div align=center><img width="640"  src="/img/qinglongshan/太极图-彩色深色.png" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/太极图-彩色深色.png" alt="来氏太极图"></div>
 <center>Inkscape 绘制的矢量来知德太极图</center>
 
