@@ -25,7 +25,7 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 <div align=center><img width="200"  src="/img/qinglongshan/1.webp" alt="1"></div>
 
 <div align=center><img width="640"  src="/img/qinglongshan/Archaeological_finds_in_National_Museum_of_the_History_of_Ukraine_02.jpg" alt="1"></div>
-在乌克兰基洛夫格勒州 Volodymyrivka 村，考古学家发现了公元前5000年至前4000年间（东南欧新石器-铜石并用时代）盛装谷物的容器[1]，上面绘制的图案与太极图案相似。
+在乌克兰基洛夫格勒州 Volodymyrivka 村，考古学家发现了公元前5000年至前4000年间（东南欧新石器-铜石并用时代）[盛装谷物的容器](https://nmiu.org/en/exhibits/museum/arch/276)，上面绘制的图案与太极图案相似。
 
 <div align=center><img width="640"  src="/img/qinglongshan/乌克兰-Volodymyrivka.png" alt="1"></div>
 
@@ -57,51 +57,48 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 <div align=center><img width="640"  src="/img/qinglongshan/Ornamental_Bronze_Plaque,_Celtic_Horse-gear,_Santon,_Norfolk.jpg" alt="1"></div>
 装饰性铜牌，公元前1世纪中叶
 
-凯尔特艺术[2] 起源于公元前约1000年，凯尔特艺术起源于古代凯尔特民族，最早活跃于西欧和中欧地区。以螺旋、编织、动物等抽象图案为主，常见于金属器、石雕和手稿，强调装饰性和几何美感。这些物品上包含阴阳图案的花纹。
+[凯尔特艺术](https://commons.wikimedia.org/wiki/Category:Yin_yang_in_Celtic_art) 起源于公元前约1000年，凯尔特艺术起源于古代凯尔特民族，最早活跃于西欧和中欧地区。以螺旋、编织、动物等抽象图案为主，常见于金属器、石雕和手稿，强调装饰性和几何美感。这些物品上包含阴阳图案的花纹。
 
 
 <div align=center><img width="200"  src="/img/qinglongshan/5.png" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Notitia_Dignitatum_-_Magister_Peditum.jpg" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Notitia_Dignitatum_-_Magister_Peditum.gif" alt="1"></div>
 公元 395 - 476 年之间西罗马帝国的步兵盾徽包含太极图案式样
-
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/Sousse_mosaic.jpeg" alt="1"></div>
 公元3世纪，突尼斯苏塞古城地面镶嵌的阴阳图图案
 
 
 
-图片
-
-
-
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/6.webp" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/周敦颐.jpg" alt="1"></div>
 周敦颐（1017年—1073年7月24日），湖南道县人，北宋官员、学者，宋明理学理论基础的创始人之一，《爱莲说》作者。 中华人民共和国总理周恩来、知名作家鲁迅（周树人）与周作人、周建人三兄弟均为周敦颐后人。
 
 周敦颐著《太极图说》，融合儒释道三家思想，首创“无极而太极”的宇宙生成论。虽然书中并没有画出太极图，但多人依其理论绘制出不同的图形，并以其姓氏命名为 “周氏太极图” ，也称 “万物化生图”。
 
 
 
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/7.webp" alt="1"></div>
 
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/翼玄-易先天图-太极图.png" alt="1"></div>
 南宋张行成，生卒年不详，约十二世纪，四川临邛人，进士（1131年-1137年）。其著作《翼玄》中有解读伏羲六十四卦方位的图形，称为 “易先天图”。
 
 
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/天地自然河图.png" alt="1"></div>
 元末明初学者赵㧑谦（1351–1395），著《六书本义》，其中有 “天地自然之图”，此图中鱼眼非圆形。
 
 
-
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/古太極圖.png" alt="1"></div>
 明代理学家章潢（1527–1608），著《图书编》，收录有 “古太极图” 。
 
 以上“易先天图”、“天地自然之图”与“古太极图”都具备后来标准阴阳太极图的基本形态，后人应是在此基础上逐步完善，最终形成了现在的阴阳太极图。
 
 
 
-图片
-图片
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/8.png" alt="1"></div>
+
+
+<div align=center><img width="640"  src="/img/qinglongshan/来瞿唐先生圆图.png" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/来知德先生.jpg" alt="1"></div>
 来知德（即来瞿唐，1526–1604），四川人，明代理学家、易学家，教育家。其代表作《来瞿唐先生易注》中有其自创的 “太极圆图” ，也被称为  “来氏太极图”。
 
 虽然来氏太极图也很重要，但人们更偏爱古太极图，并在此基础上继续加工，最终形成黑白平衡且构图完美的阴阳鱼太极图，此后，阴阳鱼太极图成为民间流行的图案，我们现在所见的太极图，基本上都是这种图。
@@ -116,28 +113,25 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 太极符号（Yin-Yang Symbol ）的自然属性与未来
 
-图片
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/1.webp" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/Natürlich_gewachsenes_yin-yang-.jpg" alt="1"></div>
 自然界中，树木的生长有时也会呈现出类似太极图的形态。
 
 
 
-图片
-
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/2.webp" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/Saturn-Iapetus-yin-yang.jpg" alt="1"></div>
 2013年，NASA卡西尼号拍摄的土卫八（Iapetus）照片，与中国太极图惊人相似。
 
-图片
-
-
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/3.webp" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/立杠测影.jpeg" alt="1"></div>
 有学者研究发现，竖立木杆记录一年四季太阳投影的变化，汇集后可以形成阴阳图案。
 
-对太极很有研究的 @大海[4]  认为：古人应该是先有对太极图的研究才形成农耕历法。至于没有文献记录可能与焚书坑儒有关。因此太极图案的演变顺序应该为：
+对太极很有研究的 @大海 认为：古人应该是先有对太极图的研究才形成农耕历法。至于没有文献记录可能与焚书坑儒有关。因此太极图案的演变顺序应该为：
 
 1. 太极图的本质是绘制“历法”（即二十四节气）的“图像”显化表达，且立杆测影得到的“太极图”，并且是“来氏太极图”。且最上面的三图顺序应该如下：
 
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/双鱼图-2.png" alt="1"></div>
 無極 > 来氏太极图 > 阴阳太极图
 
 2. 此后，才有 “太极文化”。
@@ -148,23 +142,21 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 
 
-图片
-
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/4.png" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/Unicode标准第11.0版.png" alt="1"></div>
 杂项符号 Unicode 标准第 11.0 版
 
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/Unicode标准-60.png" alt="1"></div>
 《Unicode 标准》第 6.0 版新增字符
 
 Unicode 联盟（Unicode Consortium）是全球软件国际化标准的制定者，自1988年成立以来，制定并维护了Unicode标准，使全球各种语言的文字、符号和表情符号能在电脑和手机等设备上无障碍显示和交流。
 
-Unicode 联盟已经把两个阴阳图符号纳入全球通用字符标准[3]，其中：“☯” 分配的代码点为 U+262F ， “࿊” 的代码点为 U+0FCA 。这意味着无论在何种操作系统、软件或设备中，阴阳图等文化符号都能被唯一识别、正确显示和传递。保障了多元文化符号在数字世界的平等呈现和交流，促进全球信息无障碍共享。
+Unicode 联盟已经把两个阴阳图符号纳入[全球通用字符标准](https://www.unicode.org/charts/PDF/Unicode-11.0/U110-2600.pdf)，其中：“☯” 分配的代码点为 U+262F ， “࿊” 的代码点为 U+0FCA 。这意味着无论在何种操作系统、软件或设备中，阴阳图等文化符号都能被唯一识别、正确显示和传递。保障了多元文化符号在数字世界的平等呈现和交流，促进全球信息无障碍共享。
 
 
 
-图片
-
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/5.png" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/量子“阴阳”现象_科学家实时捕捉光子纠缠.png" alt="1"></div>
 量子“阴阳”现象：科学家实时捕捉光子纠缠
 
 主要刊载光子学领域最新研究成果的顶级学术刊物《自然光子学》2023年8月14日公布了一项突破性的实验：研究人员首次利用双光子数字全息技术，实时可视化两个纠缠光子的状态，观察到它们呈现出如同 “阴阳” 符号的图像。
@@ -194,12 +186,5 @@ Unicode 联盟已经把两个阴阳图符号纳入全球通用字符标准[3]，
 太极图可能表征了自然界物质运动或人类社会中人群关系演变的一些特征，值得人们去关注。
 
 
-
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/太极图-彩色深色.png" alt="1"></div>
 Inkscape 绘制的矢量来知德太极图
-
-References
-[1]盛装谷物的容器: https://nmiu.org/en/exhibits/museum/arch/276
-[2]凯尔特艺术: https://commons.wikimedia.org/wiki/Category:Yin_yang_in_Celtic_art
-[3]全球通用字符标准（部分字符）: https://www.unicode.org/charts/PDF/Unicode-11.0/U110-2600.pdf
-[4] @大海 的公众号 “對話漢字” 有《太极文明始自西夷》、《人类文明同源性研究》、《“盘古”开天辟地》等专题文章，感兴趣可以移步阅读：
