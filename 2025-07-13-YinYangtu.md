@@ -8,8 +8,8 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 <div align=center><img width="640"  src="/img/qinglongshan/青龙山照片.jpg" alt="洪洞县青龙山玄帝宫黄籙殿"></div>
 2025年7月13日，自然与人文协会三人同行，前往洪洞县青龙山玄帝宫。在玄帝宫黄籙殿发现供奉着一个陌生的图案，形状似相机镜头。下方还排列着三个小图案，中间为常见的阴阳太极图。当时推测，这三幅小图或许象征着某种递进或演化关系。回来后，还绘制了三个小图案的示意图：
+<div align=center><img width="640"  src="/img/qinglongshan/双鱼图.png" alt="三个太极图"></div>
 
-图片
 出于好奇，开始搜索这个图案，发现它出自明代著名哲学家来瞿唐的著作《来瞿唐先生易注》，并且也叫太极图。
 
 进一步追溯，原本流传最广、最为人熟知的 “阴阳太极图” 又是谁首创？答案指向南宋学者张行成。他在《翼玄》一书中绘制了太极图，用以诠释伏羲六十四卦方位，但当时并没有称为“太极图”，而叫“易先天图”。
@@ -22,9 +22,9 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 太极图案（Yin-Yang Diagram）渊源
 
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/1.webp" alt="1"></div>
 
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/Archaeological_finds_in_National_Museum_of_the_History_of_Ukraine_02.jpg" alt="1"></div>
 在乌克兰基洛夫格勒州 Volodymyrivka 村，考古学家发现了公元前5000年至前4000年间（东南欧新石器-铜石并用时代）盛装谷物的容器[1]，上面绘制的图案与太极图案相似。
 
 图片
