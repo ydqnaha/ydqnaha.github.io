@@ -6,7 +6,7 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 ---
 
 
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/青龙山照片.jpg" alt="洪洞县青龙山玄帝宫黄籙殿"></div>
 2025年7月13日，自然与人文协会三人同行，前往洪洞县青龙山玄帝宫。在玄帝宫黄籙殿发现供奉着一个陌生的图案，形状似相机镜头。下方还排列着三个小图案，中间为常见的阴阳太极图。当时推测，这三幅小图或许象征着某种递进或演化关系。回来后，还绘制了三个小图案的示意图：
 
 图片
