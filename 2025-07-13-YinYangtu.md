@@ -27,42 +27,42 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 <div align=center><img width="640"  src="/img/qinglongshan/Archaeological_finds_in_National_Museum_of_the_History_of_Ukraine_02.jpg" alt="1"></div>
 在乌克兰基洛夫格勒州 Volodymyrivka 村，考古学家发现了公元前5000年至前4000年间（东南欧新石器-铜石并用时代）盛装谷物的容器[1]，上面绘制的图案与太极图案相似。
 
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/乌克兰-Volodymyrivka.png" alt="1"></div>
 
 卫星地图上的 Volodymyrivka 村，面积不是很大，现在也不像是有人居住
 
 
 
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/2.webp" alt="1"></div>
 
-图片
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/屈家岭文化-彩陶纺轮1.png" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/屈家岭文化-彩陶纺轮2.png" alt="1"></div>
 在中国湖北京山市屈家岭村，发现公元前3300–前2600年的彩陶纺轮，常见图案为漩涡、直线、麻点、同心弧线、双鱼等，其中的“漩涡”与“双鱼”图案在视觉上与太极图案相似。
 
 
 
-图片
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/3.webp" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/I_Ching_Song_Dynasty_print.jpg" alt="1"></div>
 宋朝《易经》首页
 
 《周易》的成书时间约在公元前1046年到前200年之间。《周易》中有阴阳这个词汇，且明确记载：“一阴一阳之谓道”，这是对阴阳哲学的经典表述，但书中没有 “太极” 这个词汇；有卦爻符号，但没有太极或阴阳图图案。
 
 
 
-图片
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/4.png" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/Celtic_Gold-plated_Disc,_Auvers-sur-Oise,_Val-d'Oise.jpg" alt="1"></div>
 法国发现公元前400年的圆盘胸针
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/Celtic_Bronze_Plaque,_Mairy,_Marne.jpg" alt="1"></div>
 法国发现公元前400年的青铜牌
-图片
+<div align=center><img width="640"  src="/img/qinglongshan/Ornamental_Bronze_Plaque,_Celtic_Horse-gear,_Santon,_Norfolk.jpg" alt="1"></div>
 装饰性铜牌，公元前1世纪中叶
 
 凯尔特艺术[2] 起源于公元前约1000年，凯尔特艺术起源于古代凯尔特民族，最早活跃于西欧和中欧地区。以螺旋、编织、动物等抽象图案为主，常见于金属器、石雕和手稿，强调装饰性和几何美感。这些物品上包含阴阳图案的花纹。
 
 
-图片
-图片
-图片
+<div align=center><img width="200"  src="/img/qinglongshan/5.png" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/Notitia_Dignitatum_-_Magister_Peditum.jpg" alt="1"></div>
+<div align=center><img width="640"  src="/img/qinglongshan/Notitia_Dignitatum_-_Magister_Peditum.gif" alt="1"></div>
 公元 395 - 476 年之间西罗马帝国的步兵盾徽包含太极图案式样
 
 图片
