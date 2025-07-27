@@ -1,13 +1,13 @@
 ---
 theme: jekyll-theme-cayman
-title: ࿊ 太极图（Yin-Yang Diagram）：文明交汇中的符号之旅
+title: ࿊ 太极图（Taijitu、Yin-Yang Diagram）：文明交汇中的符号之旅
 permalink: /2025-07-13-YinYangtu.html
 description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civilizations
 ---
 
 
 <div align=center><img width="640"  src="/img/qinglongshan/青龙山照片.jpg" alt="洪洞县青龙山玄帝宫黄籙殿"></div>
-2025年7月13日，自然与人文协会三人同行，前往洪洞县青龙山玄帝宫。在玄帝宫黄籙殿发现供奉着一个陌生的图案，形状似相机镜头。下方还排列着三个小图案，中间为常见的阴阳太极图。当时推测，这三幅小图或许象征着某种递进或演化关系。回来后，还绘制了三个小图案的示意图：
+2025年7月13日，自然与人文协会三人同行，前往洪洞县青龙山玄帝宫。在玄帝宫黄籙殿发现供奉着一个陌生的图案，形状似相机镜头。下方还排列着三个小图案，中间为常见的阴阳太极图。当时推测，这三幅小图或许象征着某种递进或演化关系。回来后，还绘制了三个小图案的示意图，依次为无极图、阴阳鱼太极图（简称双眼太极图）以及后来知道的来氏太极图（简称单眼太极图）：
 <div align=center><img width="640"  src="/img/qinglongshan/双鱼图.png" alt="三个太极图"></div>
 
 出于好奇，开始搜索这个图案，发现它出自明代著名哲学家来瞿唐的著作《来瞿唐先生易注》，并且也叫太极图。
@@ -20,7 +20,7 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 
 
-<h2>太极图案（Yin-Yang Diagram）溯源</h2>
+<h2>太极图案（Taijitu、Yin-Yang Diagram）溯源</h2>
 
 <div align=center><img width="200"  src="/img/qinglongshan/1.webp" alt="1"></div>
 
@@ -121,7 +121,7 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 <div align=center><img width="200"  src="/img/qinglongshan/2.webp" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Saturn-Iapetus-yin-yang.jpg" alt="1"></div>
-2013年，NASA卡西尼号拍摄的土卫八（Iapetus）照片，与中国太极图惊人相似。
+2013年，NASA卡西尼号拍摄的土卫八（Iapetus，土卫八是土星第三大卫星，1671年10月25日）照片，与中国太极图惊人相似。
 
 <div align=center><img width="200"  src="/img/qinglongshan/3.webp" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/立杠测影.jpeg" alt="1"></div>
