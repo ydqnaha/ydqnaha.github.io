@@ -121,7 +121,7 @@ description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civiliza
 
 <div align=center><img width="200"  src="/img/qinglongshan/2.webp" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/Saturn-Iapetus-yin-yang.jpg" alt="1"></div>
-2013年，NASA卡西尼号拍摄的土卫八（Iapetus，土卫八是土星第三大卫星，1671年10月25日）照片，与中国太极图惊人相似。
+2013年，NASA卡西尼号拍摄的土卫八（Iapetus，土卫八是土星第三大卫星，1671年10月25日法国人卡西尼发现）照片，与中国太极图惊人相似。
 
 <div align=center><img width="200"  src="/img/qinglongshan/3.webp" alt="1"></div>
 <div align=center><img width="640"  src="/img/qinglongshan/立杠测影.jpeg" alt="1"></div>
