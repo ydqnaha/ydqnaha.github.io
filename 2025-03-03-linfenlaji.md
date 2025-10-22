@@ -2,7 +2,7 @@
 theme: jekyll-theme-cayman
 title: 交流与讨论：临汾垃圾分类的现状与未来
 permalink: /2025-03-03-linfenlaji.html
-description: Yin-Yang Diagram A Journey of Symbols in the Confluence of Civilizations
+description: Communication and Discussion: The Current Situation and Future of Waste Sorting in Linfen
 ---
 
 
