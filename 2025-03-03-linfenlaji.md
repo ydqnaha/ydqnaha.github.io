@@ -6,10 +6,8 @@ description: The Current Situation and Future of Waste Sorting in Linfen
 lang: zh-CN
 categories: [linfen, waste]
 tags: [垃圾分类, 比利时, 立法]
-image: /img/linfen_laji/0.png
-back_home: /
 ---
-<a class="btn" href="{{ site.baseurl }}{{ page.back_home }}">返回首页</a>
+
 
 <div align=center><img width="640"  src="/img/linfen_laji/0.png" alt="临汾垃圾"></div>
 
